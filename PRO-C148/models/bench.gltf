@@ -1,0 +1,598 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4402,
+      "max": [
+        2.2370126247406006,
+        1.008544921875,
+        3.2576303482055664
+      ],
+      "min": [
+        -2.2370126247406006,
+        -1.1991775035858154,
+        0.0001519918441772461
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52824,
+      "componentType": 5126,
+      "count": 4402,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4402,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4402,
+      "max": [
+        0.6593992710113525,
+        0.6656656265258789
+      ],
+      "min": [
+        0.002259122207760811,
+        0.006692701485008001
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7632,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 105648,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        3.2043418884277344,
+        0.9529991745948792,
+        3.400434970855713
+      ],
+      "min": [
+        -3.2043418884277344,
+        -1.264954686164856,
+        1.3535916805267334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 116448,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        1.0,
+        0.9999824166297913,
+        0.9999819397926331
+      ],
+      "min": [
+        -1.0,
+        -0.999999463558197,
+        -0.9999932646751404
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 70432,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        0.10824518650770187,
+        0.9999996423721313,
+        0.9999995231628418,
+        1.0
+      ],
+      "min": [
+        -0.10824522376060486,
+        -0.9999932646751404,
+        -0.9999713897705078,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35216,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        0.9998020529747009,
+        0.9850835800170898
+      ],
+      "min": [
+        0.0002443979028612375,
+        0.01491477619856596
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 30528,
+      "componentType": 5125,
+      "count": 1482,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127248,
+      "componentType": 5126,
+      "count": 19804,
+      "max": [
+        155.85787963867188,
+        239.9667205810547,
+        204.23129272460938
+      ],
+      "min": [
+        -155.85787963867188,
+        2.0721218585968018,
+        -148.5592041015625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 364896,
+      "componentType": 5126,
+      "count": 19804,
+      "max": [
+        0.9991223812103271,
+        1.0,
+        0.9741196036338806
+      ],
+      "min": [
+        -0.9991238117218018,
+        -1.0,
+        -0.9765875935554504
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 84832,
+      "componentType": 5126,
+      "count": 19804,
+      "max": [
+        1.0,
+        0.9765876531600952,
+        0.9991188049316406,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9616954922676086,
+        -0.9991201758384705,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42416,
+      "componentType": 5126,
+      "count": 19804,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 36456,
+      "componentType": 5125,
+      "count": 37332,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "SusanKing (https://sketchfab.com/krolzuzannapl)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/park-bench-dcb057ffb7e949a7a1ec5523321d965b",
+      "title": "Park bench"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 185784,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200848,
+      "byteOffset": 185784,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 602544,
+      "byteOffset": 386632,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 401696,
+      "byteOffset": 989176,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1390872,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/metal_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/metal_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/metal_normal.png"
+    },
+    {
+      "uri": "textures/wood_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wood_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wood_normal.png"
+    },
+    {
+      "uri": "textures/screws_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/screws_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/screws_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "metal",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wood",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "screws",
+      "normalTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0.609727365,
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "metal_metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wood_wood_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "screws_screws_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "f1e9e585a017483798b43b798bb80892.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        35.3270378112793,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -5.75550500111454e-06,
+        -35.32703781127883,
+        0.0,
+        0.0,
+        35.32703781127883,
+        -5.75550500111454e-06,
+        0.0,
+        0.0,
+        -5.9604644775390625e-06,
+        0.0,
+        1.0
+      ],
+      "name": "metal"
+    },
+    {
+      "mesh": 0,
+      "name": "metal_metal_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        35.3270378112793,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -5.75550500111454e-06,
+        -35.32703781127883,
+        0.0,
+        0.0,
+        35.32703781127883,
+        -5.75550500111454e-06,
+        0.0,
+        0.0,
+        -5.9604644775390625e-06,
+        0.0,
+        1.0
+      ],
+      "name": "wood"
+    },
+    {
+      "mesh": 1,
+      "name": "wood_wood_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.49421605467796326,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.49421605467796276,
+        2.160286986356815e-08,
+        0.0,
+        0.0,
+        -9.197081280298608e-09,
+        0.21040469408035256,
+        0.0,
+        0.0,
+        7.105427357601002e-13,
+        -1.7763568394002505e-13,
+        1.0
+      ],
+      "name": "screws"
+    },
+    {
+      "mesh": 2,
+      "name": "screws_screws_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}
